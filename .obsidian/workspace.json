@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "94f2098487a531a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb489dc055180a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c88f8a2a499e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Icon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8df727f23881d47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e64d17827c3dd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9144b195fd22c77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "513952413f96717e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".md",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "681d0eb69bc5e3b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0d52b99efd71028",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "746156383d1aba46",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdd76140f2b4e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f5ae464095faa09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Icon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d51c6c1c01575f85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Icon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8463a57d6024964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fcb086c1845c71d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Icon.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "19c88f8a2a499e92",
+  "lastOpenFiles": [
+    "daily_round.md",
+    "cross.md",
+    "chrysostom.md",
+    "catechumens.md",
+    "book.md",
+    "autumn_12.md",
+    "index.md",
+    "weekly_round.md",
+    "matins.md",
+    "litanies.md",
+    "Icon.md",
+    "prayer.md",
+    "README.md",
+    "sanctity.md",
+    "winter_12.md",
+    "_config.yml",
+    "Годовой круг.md",
+    "Вечера на хуторе близ Диканьки.md",
+    "Всенощное бдение. Вечерня.md",
+    "Православная молитва.md",
+    "img/1-1.jpg",
+    "Онфим.md",
+    "Храм.md",
+    "clever.webm/Мумриков_webcams.webm",
+    "clever.webm/Иконы.webm",
+    "clever.webm/В.Легойда.webm",
+    "clever.webm/Ustanovochnyj_vebinar_ ODNKNR 03.10.23.pdf",
+    "clever.webm/Sovremennye priemy i tekhnologii_ODNKNR_lekciya 1.pdf",
+    "clever.webm/Pavlichenko LA_Lekciya 06.10.pdf",
+    "clever.webm/ODNKNR_SEMYA- 2 lekciya_otred..pdf",
+    "clever.webm/ODNKNR_8_lesson_9.png",
+    "clever.webm/Nayka_kak_istochnik_znania_o_cheloveke_.pdf",
+    "clever.webm/Gaevskaya_N.V._Arhitekturnye_shkoly.pdf",
+    "Зимние праздники/20210911_180423.jpg",
+    "Зимние праздники/20210726_091729.jpg",
+    "Зимние праздники/20210726_091726.jpg",
+    "Зимние праздники/20210726_091418.jpg",
+    "Зимние праздники/20210726_083202.jpg",
+    "Зимние праздники/20210725_201529.jpg",
+    "Зимние праздники/20210725_174136.jpg",
+    "Зимние праздники/20210725_174041.jpg",
+    "pistis/КТП Основы православной веры.md",
+    "pistis/Крест.md",
+    "pistis/О Гоголе и о Божественной литургии.md",
+    "pistis/Утреня.md",
+    "pistis/Три круга церковных богослужений.md"
+  ]
+}
