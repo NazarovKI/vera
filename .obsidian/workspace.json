@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Положение о школьной форме.md",
+                "file": "uniform.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Положение о школьной форме.md",
+                "file": "uniform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Положение о школьной форме.md",
+                "file": "uniform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Положение о школьной форме.md"
+                "file": "uniform.md"
               }
             }
           }
@@ -156,10 +156,44 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "b033a9c3d9a7ff94",
+  "floating": {
+    "id": "80913a0b2d7658c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "09ef8d114cfececc",
+        "type": "window",
+        "children": [
+          {
+            "id": "d65ed1d93c235255",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e071b8a40d5d6ad1",
+                "type": "leaf",
+                "state": {
+                  "type": "marp-preview-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 768,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e071b8a40d5d6ad1",
   "lastOpenFiles": [
-    "Положение о внутреннем распорядке.md",
-    "Положение о школьной форме.md",
+    "greatlent.md",
+    "uniform.md",
+    "internal_regulations.md",
     "Положение о внутреннем распорядке.md_",
     "README.md",
     "Положение о школьной форме.md~",
@@ -172,7 +206,6 @@
     "litanies.md",
     "index.md",
     "Icon.md",
-    "greatlent.md",
     "daily_round.md",
     "cross.md",
     "Богослужение.md",
