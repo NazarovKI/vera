@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pravda"
+		},
+		{
+			"path": "../definitio"
+		}
+	],
+	"settings": {}
+}
