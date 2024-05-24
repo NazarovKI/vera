@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "45f3f981e8bce691",
+      "parent": 0,
+      "droppable": true,
+      "text": "12 апостолов - за 2 минуты",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

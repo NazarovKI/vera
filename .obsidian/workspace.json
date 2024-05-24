@@ -11,24 +11,16 @@
             "id": "b033a9c3d9a7ff94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2fa3d5357b6a2bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "greatlent.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,14 +29,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech_slides.md",
+                "file": "2024-05-23.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "45f3f981e8bce691",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://foma.ru/wp_quiz/12-apostolov-za-2-minutyi?ysclid=lwixecqrd1478504487"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech_slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech_slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tech_slides.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,10 +179,24 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "3e5f6bd05cd9224e",
+  "active": "45f3f981e8bce691",
   "lastOpenFiles": [
-    "greatlent.md",
+    "img/wheeled-4.jpg",
+    "img/wheeled-3.jpg",
+    "img/wheeled-2.jpg",
+    "img/wheeled-1.jpg",
+    "img/wheeled-0.jpg",
+    "robot.md",
+    "img/wheeled.jpg",
+    "img/tank.jpg",
+    "img/glider.jpg",
+    "img/EV3Hardware-large.jpg",
+    "img/architectural.jpg",
+    "img/20240323_120209.jpg",
+    "2024-05-23.md",
+    "Без названия.md",
     "tech_slides.md",
+    "greatlent.md",
     "uniform.md",
     "2024-03-20.md",
     "internal_regulations.md",
@@ -203,16 +215,6 @@
     "daily_round.md",
     "cross.md",
     "Богослужение.md",
-    "img/wYAC0agwTcg.jpg",
-    "img/vypekanie_prosfor.jpg",
-    "img/vozdeja-nie-ruk-2-1536x1024.jpg",
-    "img/poruchi-1-600x400.jpg",
-    "img/prosfora811.jpg",
-    "img/ektenija.jpg",
-    "img/epitrahil-2.jpg",
-    "img/discoss.png",
-    "img/diakon_13632870370.jpg",
-    "img/bogovoploshhenie-1.jpg",
     "book.md",
     "autumn_12.md",
     "Рождество Христово.md",
@@ -224,10 +226,6 @@
     "catechumens.md",
     "weekly_round.md",
     "_config.yml",
-    "Годовой круг.md",
-    "Вечера на хуторе близ Диканьки.md",
-    "Всенощное бдение. Вечерня.md",
-    "Православная молитва.md",
     "clever.webm/Мумриков_webcams.webm"
   ]
 }
