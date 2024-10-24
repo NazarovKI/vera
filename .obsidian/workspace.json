@@ -4,49 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c595b97a6263d345",
+        "id": "b2e593840ee24756",
         "type": "tabs",
         "children": [
           {
-            "id": "b033a9c3d9a7ff94",
+            "id": "3131b566c6876470",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "2fa3d5357b6a2bd6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e5f6bd05cd9224e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-05-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f3f981e8bce691",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://foma.ru/wp_quiz/12-apostolov-za-2-minutyi?ysclid=lwixecqrd1478504487"
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +148,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "45f3f981e8bce691",
+  "active": "3131b566c6876470",
   "lastOpenFiles": [
+    "2024-05-23.md",
     "img/wheeled.jpg~",
     "img/tank.jpg~",
     "img/glider.jpg~",
@@ -198,7 +168,6 @@
     "img/glider.jpg",
     "img/EV3Hardware-large.jpg",
     "img/architectural.jpg",
-    "2024-05-23.md",
     "Без названия.md",
     "tech_slides.md",
     "greatlent.md",
@@ -210,7 +179,6 @@
     "Положение о школьной форме.md~",
     "Положение о внутреннем распорядке.md~",
     "Правила Внутреннего распорядка учащихся Гимназии .docx",
-    "Положение о внешнем виде и школьной форме.docx",
     "prayer.md",
     "matins.md",
     "litanies.md",
