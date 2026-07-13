@@ -1,3 +1,31 @@
-remote_theme: rundocs/jekyll-rtd-theme
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Обязательные или основные настройки
+title: "ООО Мастер ул. Раздольная, 34"          # Название сайта[reference:2][reference:3]
+description: "Документы по работе компании"          # Описание сайта[reference:4][reference:5]
+url: "https://nazarovki.github.io"              # Адрес вашего сайта[reference:6][reference:7]
+baseurl: "/vera"        # Если сайт не в корне домена[reference:8][reference:9]
+lang: "ru"                              # Язык сайта (по умолчанию en)[reference:10][reference:11]
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs  # Подключение темы[reference:12][reference:13]
+
+# Настройка главной страницы из README.md
+readme_index:
+  with_frontmatter: true                # Использовать frontmatter из README.md[reference:14][reference:15]
+
+# Направление текста
+direction: auto                         # ltr (слева направо) или rtl (справа налево)[reference:16][reference:17]
+
+# Подключение плагинов
+plugins:                                # Список подключаемых плагинов[reference:18]
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Исключение файлов из сборки
+exclude:                                # Эти файлы не будут скопированы в итоговый сайт[reference:19]
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+mermaid:
+  initialize: # сюда можно передать JSON-объект с настройками Mermaid
+    theme: 'dark'
